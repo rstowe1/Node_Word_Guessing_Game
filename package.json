@@ -1,0 +1,25 @@
+{
+  "name": "Node_Word_Guessing_Game",
+  "version": "1.0.0",
+  "description": "Test your skills and try to guess the word displayed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstowe1/Node_Word_Guessing_Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rstowe1/Node_Word_Guessing_Game/issues"
+  },
+  "homepage": "https://github.com/rstowe1/Node_Word_Guessing_Game#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "inquirer": "^5.2.0",
+    "npm": "^6.0.0"
+  }
+}
